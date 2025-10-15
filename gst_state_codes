@@ -1,0 +1,342 @@
+[{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f609f"
+  },
+  "id": "01",
+  "code": "01 - Jammu and Kashmir",
+  "state_name": "Jammu and Kashmir",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60a0"
+  },
+  "id": "02",
+  "code": "02 - Himachal Pradesh",
+  "state_name": "Himachal Pradesh",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60a1"
+  },
+  "id": "03",
+  "code": "03 - Punjab",
+  "state_name": "Punjab",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60a2"
+  },
+  "id": "04",
+  "code": "04 - Chandigarh",
+  "state_name": "Chandigarh",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60a3"
+  },
+  "id": "05",
+  "code": "05 - Uttarakhand",
+  "state_name": "Uttarakhand",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60a4"
+  },
+  "id": "06",
+  "code": "06 - Haryana",
+  "state_name": "Haryana",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60a5"
+  },
+  "id": "07",
+  "code": "07 - Delhi",
+  "state_name": "Delhi",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60a6"
+  },
+  "id": "08",
+  "code": "08 - Rajasthan",
+  "state_name": "Rajasthan",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60a7"
+  },
+  "id": "09",
+  "code": "09 - Uttar Pradesh",
+  "state_name": "Uttar Pradesh",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60a8"
+  },
+  "id": "10",
+  "code": "10 - Bihar",
+  "state_name": "Bihar",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60a9"
+  },
+  "id": "11",
+  "code": "11 - Sikkim",
+  "state_name": "Sikkim",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60aa"
+  },
+  "id": "12",
+  "code": "12 - Arunachal Pradesh",
+  "state_name": "Arunachal Pradesh",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60ab"
+  },
+  "id": "13",
+  "code": "13 - Nagaland",
+  "state_name": "Nagaland",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60ac"
+  },
+  "id": "14",
+  "code": "14 - Manipur",
+  "state_name": "Manipur",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60ad"
+  },
+  "id": "15",
+  "code": "15 - Mizoram",
+  "state_name": "Mizoram",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60ae"
+  },
+  "id": "16",
+  "code": "16 - Tripura",
+  "state_name": "Tripura",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60af"
+  },
+  "id": "17",
+  "code": "17 - Meghalaya",
+  "state_name": "Meghalaya",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60b0"
+  },
+  "id": "18",
+  "code": "18 - Assam",
+  "state_name": "Assam",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60b1"
+  },
+  "id": "19",
+  "code": "19 - West Bengal",
+  "state_name": "West Bengal",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60b2"
+  },
+  "id": "20",
+  "code": "20 - Jharkhand",
+  "state_name": "Jharkhand",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60b3"
+  },
+  "id": "21",
+  "code": "21 - Odisha",
+  "state_name": "Odisha",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60b4"
+  },
+  "id": "22",
+  "code": "22 - Chhattisgarh",
+  "state_name": "Chhattisgarh",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60b5"
+  },
+  "id": "23",
+  "code": "23 - Madhya Pradesh",
+  "state_name": "Madhya Pradesh",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60b6"
+  },
+  "id": "24",
+  "code": "24 - Gujarat",
+  "state_name": "Gujarat",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60b7"
+  },
+  "id": "25",
+  "code": "25 - Daman and Diu",
+  "state_name": "Daman and Diu",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60b8"
+  },
+  "id": "26",
+  "code": "26 - Dadra and Nagar Haveli",
+  "state_name": "Dadra and Nagar Haveli",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60b9"
+  },
+  "id": "27",
+  "code": "27 - Maharashtra",
+  "state_name": "Maharashtra",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60ba"
+  },
+  "id": "28",
+  "code": "28 - Andhra Pradesh (Old)",
+  "state_name": "Andhra Pradesh (Old)",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60bb"
+  },
+  "id": "29",
+  "code": "29 - Karnataka",
+  "state_name": "Karnataka",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60bc"
+  },
+  "id": "30",
+  "code": "30 - Goa",
+  "state_name": "Goa",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60bd"
+  },
+  "id": "31",
+  "code": "31 - Lakshadweep",
+  "state_name": "Lakshadweep",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60be"
+  },
+  "id": "32",
+  "code": "32 - Kerala",
+  "state_name": "Kerala",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60bf"
+  },
+  "id": "33",
+  "code": "33 - Tamil Nadu",
+  "state_name": "Tamil Nadu",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60c0"
+  },
+  "id": "34",
+  "code": "34 - Puducherry",
+  "state_name": "Puducherry",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60c1"
+  },
+  "id": "35",
+  "code": "35 - Andaman and Nicobar Islands",
+  "state_name": "Andaman and Nicobar Islands",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60c2"
+  },
+  "id": "36",
+  "code": "36 - Telangana",
+  "state_name": "Telangana",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60c3"
+  },
+  "id": "37",
+  "code": "37 - Andhra Pradesh (New)",
+  "state_name": "Andhra Pradesh (New)",
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "68ef13c9c68f03c5af2f60c4"
+  },
+  "id": "97",
+  "code": "97 - Other Territory",
+  "state_name": "Other Territory",
+  "status": 1
+}]
