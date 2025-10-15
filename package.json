@@ -1,0 +1,53 @@
+{
+  "name": "pos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prod": "cross-env NODE_ENV=production node index.js",
+    "start": "nodemon index.ts",
+    "dev": "cross-env NODE_ENV=development nodemon --exec ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.5.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "express-handlebars": "^8.0.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.15.1",
+    "multer": "^2.0.1",
+    "mysql": "^2.18.1",
+    "nodemailer": "^7.0.3",
+    "nodemon": "^3.1.10",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.6",
+    "@types/body-parser": "^1.19.5",
+    "@types/cors": "^2.8.18",
+    "@types/dotenv": "^6.1.1",
+    "@types/ejs": "^3.1.5",
+    "@types/express": "^5.0.2",
+    "@types/express-fileupload": "^1.5.1",
+    "@types/express-handlebars": "^5.3.1",
+    "@types/express-validator": "^2.20.33",
+    "@types/mongoose": "^5.11.96",
+    "@types/mongoose-sequence": "^3.0.11",
+    "@types/multer": "^1.4.12",
+    "@types/mysql": "^2.15.27",
+    "@types/node": "^22.15.29",
+    "@types/nodemon": "^1.19.6",
+    "@types/sqlite3": "^3.1.11",
+    "express-validator": "^7.2.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
