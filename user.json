@@ -1,0 +1,22 @@
+{
+  "_id": {
+    "$oid": "68eea0b5d09a1318c0476aed"
+  },
+  "profile_image": "",
+  "user_id": "HTU0001",
+  "username": "admin",
+  "full_name": "Admin",
+  "email": "admin@example.com",
+  "mobile_number": "9999999999",
+  "password": "$2b$10$fi3yclSSkmxWGUNFLadZd.j7eqGjWlxUChofJqIYwyGjhCvomWOuC",
+  "role": 1,
+  "mpin": 1234,
+  "status": 1,
+  "created_at": {
+    "$date": "2025-10-14T19:12:53.882Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-14T19:12:53.882Z"
+  },
+  "__v": 0
+}
